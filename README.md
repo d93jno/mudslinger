@@ -1,0 +1,2 @@
+# mudslinger
+Simple MUD client
